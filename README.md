@@ -1,4 +1,4 @@
-# Basic-SHMUP-C-
+# Basic-SHMUP-C#
 
 Basic shmup made in C# using the Monogame framework. The code is rather janky due to me not designing it first, and this being my first proper graphical game made from scratch.
 
