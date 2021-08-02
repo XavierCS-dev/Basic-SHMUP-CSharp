@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>D:/Desktop/Code/LearningC#/SHMUP/Content/enemyDeathSound.wav</SourceFile>
+  <SourceTime>2020-12-14T09:50:14.1558113+00:00</SourceTime>
+  <DestFile>D:/Desktop/Code/LearningC#/SHMUP/Content/bin/DesktopGL/Content/enemyDeathSound.xnb</DestFile>
+  <DestTime>2021-07-30T14:10:27.4625302+01:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2020-08-10T17:17:54+01:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2020-08-10T17:17:54+01:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
